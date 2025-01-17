@@ -22,3 +22,11 @@ nav ul li a{
     color: white;
     text-decoration: none;
 }
+
+.blogpost{
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    margin: 1rem;
+}
+
