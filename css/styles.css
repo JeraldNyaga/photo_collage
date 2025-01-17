@@ -30,3 +30,31 @@ nav ul li a{
     margin: 1rem;
 }
 
+figure img{
+    width: 300px;
+    height: 290px;
+    float: left;
+    object-fit: cover;
+    margin: 0 20px;
+    border-radius: 20px;
+}
+
+figure figcaption{
+    clear: left;
+    text-align: center;
+}
+
+figure figcaption p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.blog_top h2{
+    margin: 1rem;
+}
+
+.blog_top{
+    border: 3px solid burlywood;
+}
+
+
